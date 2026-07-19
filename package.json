@@ -1,0 +1,9 @@
+{
+  "name": "crediflow-finance-suite",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix SF-Frontend-main/SF-Frontend-main run dev -- --host 0.0.0.0",
+    "dev:frontend": "npm --prefix SF-Frontend-main/SF-Frontend-main run dev -- --host 0.0.0.0",
+    "dev:backend": "npm --prefix SF-Backend-main/SF-Backend-main run dev"
+  }
+}
